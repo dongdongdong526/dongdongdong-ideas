@@ -1,0 +1,13 @@
+# Node
+node_modules/
+
+# Python
+__pycache__/
+*.pyc
+
+# PowerShell
+*.ps1.xml
+
+# OS
+.DS_Store
+Thumbs.db
